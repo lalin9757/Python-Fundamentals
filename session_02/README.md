@@ -193,8 +193,8 @@ A modern way to format strings by embedding expressions inside `{}`.
 
 **Example: F-Strings**
 ```python
-name = "Rossi"
-age = 34
+name = "Lalin"
+age = 24
 print(f"My name is {name} and I am {age} years old.")
 print(f"Next year, I will be {age + 1} years old.")
 ```
